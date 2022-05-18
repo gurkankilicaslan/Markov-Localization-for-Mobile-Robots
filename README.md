@@ -4,4 +4,4 @@ This is a machine learning project for Mobile Robot Localization. Before running
 please read the report.
 
 Data.mat file is basically a binary matrix that define the map.
-You can use other 100 by 100 maps. It will work flawlessly
+You can use other 100 by 100 maps. It will work flawlessly.
